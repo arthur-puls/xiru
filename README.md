@@ -8,7 +8,7 @@ It currently runs natively with model atmospheres in KURUCZ and KURTYPE formats 
 
 ## Installation and configuration
 
-(1) Copy the .py files to the folder of your preference in your system.
+(1) Clone the files to any folder in your system.
 
 If you intend to use [Castelli/Kurucz models](https://wwwuser.oats.inaf.it/castelli/grids.html) go to step (2), otherwise jump to step (4):
 
@@ -78,7 +78,7 @@ A differential Boltzmann diagram will be saved in a file called "feplot.png".
 
 -d: activates differential analysis
 
--a: uses Salaris 1993ApJ...414..580S formula to correct metallicity for alpha-ehnancement.
+-a: uses Salaris 1993ApJ...414..580S formula to correct metallicity for alpha-ehnancement (disabled for differential analysis).
 
 -p: plots iteration history of EP Slope, Delta_Fe, Delta_M_H, and RW slope
 
