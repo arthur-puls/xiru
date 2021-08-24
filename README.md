@@ -89,3 +89,7 @@ Puls et al. in prep.
 ## Acknowledgement
 
 Thanks to Dr. Lorenzo Spina for kindly providing tables with equivalent widths data from solar twins for differential analysis testing.
+
+## Contact
+
+arthur.alencastropuls at anu.edu.au
