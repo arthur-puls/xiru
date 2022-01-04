@@ -84,7 +84,7 @@ A differential Boltzmann diagram will be saved in a file called "feplot.png".
 
 ## Citation:
 
-Puls et al. in prep.
+Alencastro Puls et al. (2022) MNRAS 510 1733
 
 ## Acknowledgement
 
