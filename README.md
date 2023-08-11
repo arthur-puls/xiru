@@ -88,4 +88,4 @@ Thanks to Dr. Lorenzo Spina for kindly providing tables with equivalent widths d
 
 ## Contact
 
-arthur.alencastropuls at anu.edu.au
+alencastropuls at iap.uni-frankfurt.de
