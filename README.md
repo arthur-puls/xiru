@@ -82,10 +82,6 @@ A differential Boltzmann diagram will be saved in a file called "feplot.png".
 
 -p: plots iteration history of EP Slope, Delta_Fe, Delta_M_H, and RW slope
 
-## Citation:
-
-Alencastro Puls et al. (2022) MNRAS 510 1733
-
 ## Acknowledgement
 
 Thanks to Dr. Lorenzo Spina for kindly providing tables with equivalent widths data from solar twins for differential analysis testing.
