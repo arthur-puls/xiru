@@ -14,9 +14,9 @@ If you intend to use [Castelli/Kurucz models](https://wwwuser.oats.inaf.it/caste
 
 ---
 
-(2) Run the routine kurucz_extractor.py
+(2) Run the routine castelli_extractor.py
 
-$ python kurucz_extractor.py
+$ python castelli_extractor.py
 
 It downloads the models with vturb=2.0 and alpha=0.0 by default and saves them to disc in a "models" subfolder in a format friendly to Xiru's interpolator. The default values for vturb and alpha can be changed according to user preferences in lines 117-119. 
 
